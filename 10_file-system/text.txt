@@ -1,0 +1,39 @@
+Absolute Path
+C:\Users\anura\OneDrive\Desktop\web-dev\nodejs-course\section-3\10_file-system\text.txt
+Relative Path
+src\text.js
+.\src\text.js
+
+
+permission   user     group
+drwxr-xr-x 3 krishan krishan 4096 Aug 13 10:37 procoder
+
+   1   2    3
+d rwx r-x  r-x permission has 10 chracher
+
+1 char  repesent  file, dir and symbolaic
+d dir   
+_ file
+l symbolaic
+
+r read  =>4
+w write => 2
+x executable => 1
+
+total 3 goups rwx
+1 gorup repesent current user . what he can do
+2 group repesent current group . what he can do
+3 group repesent another user or group . what he can do 
+
+
+
+
+git file permission 
+
+4 types only
+
+100644: normal file with non-executable permission
+100755: normal file with executable permission
+120000: symbolaic link
+040000: directory
+
