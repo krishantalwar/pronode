@@ -1,6 +1,6 @@
 // const {sum,product} = require('./math');
 // const [sum,product] = require('./math');
-
+console.log("rrrrrrrrrrrrrrrrrrrrr")
 const math = require('./math');
 
 // console.log(math)
